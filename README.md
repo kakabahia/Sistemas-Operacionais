@@ -1,6 +1,6 @@
 # Sistemas-Operacionais
 
-#Objetivo:
+Objetivo: 
 CORRIDA DE THREADS - 
 O Usuário decide a qunatidade de threads, e as mesmas imprimirão de 0 a 99.
 
